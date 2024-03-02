@@ -5,5 +5,7 @@
 
 ### Install
 ```bash
+git clone https://github.com/unrealapex/slock
+cd slock
 sudo make clean install
 ```
