@@ -23,3 +23,6 @@ static const char * font_name = "6x10";
 
 /* allow control key to trigger fail on clear */
 static const int controlkeyclear = 1;
+
+/* time in seconds before the monitor shuts down */
+static const int monitortime = 60;
