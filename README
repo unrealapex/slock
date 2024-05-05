@@ -11,9 +11,9 @@ In order to build slock you need the Xlib header files.
 Patches
 ------------
 - control-clear
+- dpms
 - mediakeys
 - message
-- dpms
 
 
 Installation
