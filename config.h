@@ -16,3 +16,11 @@ static const int controlkeyclear = 1;
 
 /* time in seconds before the monitor shuts down */
 static const int monitortime = 60;
+
+/* default message */
+static const char * message = "type password to unlock";
+
+/* text color */
+static const char * text_color = "#ffffff";
+
+static const char * font_name = "6x10";
