@@ -16,12 +16,3 @@ static const int controlkeyclear = 0;
 
 /* time in seconds before the monitor shuts down */
 static const int monitortime = 5;
-
-/* default message */
-static const char * message = "Suckless: Software that sucks less.";
-
-/* text color */
-static const char * text_color = "#ffffff";
-
-/* text size (must be a valid size) */
-static const char * text_size = "6x10";
