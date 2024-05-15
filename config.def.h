@@ -17,6 +17,9 @@ static const int controlkeyclear = 0;
 /* time in seconds before the monitor shuts down */
 static const int monitortime = 5;
 
+/* enable or disable (1 means enable, 0 disable) bell sound when password is incorrect */
+static const int xbell = 0;
+
 /*Enable blur*/
 #define BLUR
 	/*Set blur radius*/
