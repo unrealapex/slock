@@ -27,4 +27,4 @@ static const int xbell = 0;
 	/*Enable Pixelation*/
 	//#define PIXELATION
 	/*Set pixelation radius*/
-	static const int pixelSize=10;
+	/*static const int pixelSize=10;*/
