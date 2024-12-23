@@ -1,5 +1,5 @@
 aaron's build of slock
-============================
+======================
 simple screen locker utility for X.
 
 
@@ -9,7 +9,7 @@ In order to build slock you need the Xlib header files.
 
 
 Patches
-------------
+-------
 - control-clear
 - dpms
 - mediakeys
@@ -32,5 +32,3 @@ Afterwards enter the following command to build and install slock
 Running slock
 -------------
 Simply invoke the 'slock' command. To get out of it, enter your password.
-
-.. vim: set filetype=rst
